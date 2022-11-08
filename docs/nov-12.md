@@ -60,15 +60,15 @@ nav_order: 2
         <br>
         <br>
         <b>Joohyung Lee</b>, Samsung Research
-        <ul><li>Title : Digital Human Powered with Large Scale AI</li></ul>
+        <ul><li>"Digital Human Powered with Large Scale AI"</li></ul>
         <b>Mingon Kang</b>, University of Nevada
-        <ul><li>Title : Sex-specific Interpretable Neural Network for Sexual Dimorphism Analysis</li></ul>
+        <ul><li>"Sex-specific Interpretable Neural Network for Sexual Dimorphism Analysis"</li></ul>
         <b>Jaewoo Lee</b>, University of Georgia
-        <ul><li>Title : Towards Practical Deep Learning with Differential Privacy</li></ul>
+        <ul><li>"Towards Practical Deep Learning with Differential Privacy"</li></ul>
         <b>Byung-Hak Kim</b>, AKASA
-        <ul><li>Title : A Self-Supervised Framework to Learn Visual Representation in the Wild</li></ul>
+        <ul><li>"A Self-Supervised Framework to Learn Visual Representation in the Wild"</li></ul>
         <b>Yoonsuck Choe</b>, Texas A&M University
-        <ul><li>Title : Time, Brain, and Neural Networks</li></ul>
+        <ul><li>"Time, Brain, and Neural Networks"</li></ul>
     </td>
     <td>
         <b>Session 3 - KSEA</b>
@@ -76,18 +76,14 @@ nav_order: 2
         Cascade Ballroom I-B
         <br>
         <br>
-        <u>Invited Talks (20 min + 5 min Q&A)</u>
-        <br>
         <b>Donghwan Jeon</b>, CTO, Moloco
-        <ul><li>Title : App Install Ads - Past, Present, and Future</li></ul>
-        <u>Speakers (10 min each + 5 min Q&A = total 60 min)</u>
-        <br>
+        <ul><li>"App Install Ads - Past, Present, and Future"</li></ul>
         <b>James Taylor</b>, Assistant Professor, City University of Seattle
         <ul><li>Cyber Security</li></ul>
         <b>Jae Ryu</b>, Associate Professor, University of Idaho
-        <ul><li>Title : The Interstate Drone League to Stimulate STEM Pipelines in KSEA Communities (iDrone KSEA)</li></ul>
+        <ul><li>"The Interstate Drone League to Stimulate STEM Pipelines in KSEA Communities (iDrone KSEA)"</li></ul>
         <b>Taeho Yoh</b>, Professor, Southern Illinois University Carbondale
-        <ul><li>Title : Effects of Physical Activity on Children’s Math and Science Performance: A Meta-Analytic Approach</li></ul>
+        <ul><li>"Effects of Physical Activity on Children’s Math and Science Performance: A Meta-Analytic Approach"</li></ul>
     </td>
   </tr>
   <tr>
@@ -124,7 +120,7 @@ nav_order: 2
         <br>
         <br>
         <b>Dr. Scott Carnz</b>, Provost, City University of Seattle
-        <ul><li>Title : Design Thinking for the STEM Disciplines</li></ul>
+        <ul><li>"Design Thinking for the STEM Disciplines"</li></ul>
     </td>
   </tr>
   <tr>

@@ -26,7 +26,7 @@ nav_order: 3
         <br>
         <br>
         <b>Steven Y. Ko</b>, Simon Fraser University
-        <ul><li>Title : Pushing the Boundaries of Mobile OSs: Techniques and Lessons Learned</li></ul>
+        <ul><li>"Pushing the Boundaries of Mobile OSs: Techniques and Lessons Learned"</li></ul>
     </td>
   </tr>
   <tr>
@@ -37,20 +37,16 @@ nav_order: 3
         Olympic
         <br>
         <br>
-        <u>Invited Talks (20 min + 5 min Q&A)</u>
-        <br>
         <b>Joshua Pak</b>, Professor, Idaho State University, Chemistry
-        <ul><li>Title: Engineering Functional Defects in Metal-organic Frameworks</li></ul>
-        <u>Speakers (10 min each + 5 min Q&A = total 60 min)</u>
-        <br>
+        <ul><li>"Engineering Functional Defects in Metal-organic Frameworks"</li></ul>
         <b>Kyungduk Ko</b>, Professor, Boise State University, Math
-        <ul><li>Title: Change Point Detection in Variance</li></ul>
+        <ul><li>"Change Point Detection in Variance"</li></ul>
         <b>Sunwoong Kim</b>, Assistant Professor, University of Washington Bothell, Computer Engineering
-        <ul><li>Title: Privacy-Preserving Cyber-Physical System Design</li></ul>
+        <ul><li>"Privacy-Preserving Cyber-Physical System Design"</li></ul>
         <b>Jeunghoon Lee</b>, Associate Professor, Boise State University, Chemistry
-        <ul><li>Title: DNA as Material -- DNA Reaction Network For Modular Biologial Sensing</li></ul>
+        <ul><li>"DNA as Material -- DNA Reaction Network For Modular Biologial Sensing"</li></ul>
         <b>Byung Kim</b>, Professor, Boise State University, Physics
-        <ul><li>Title: Self-Assembled Water Chains: A Scanning Probe Microscopy Approach</li></ul>
+        <ul><li>"Self-Assembled Water Chains: A Scanning Probe Microscopy Approach"</li></ul>
     </td>
     <td>
         <b>Session 9 - KOCSEA</b>
@@ -61,13 +57,13 @@ nav_order: 3
         <b>Yonghwi Kwon</b>, University of Virginia
         <ul><li>Title: Discovering and Exploiting Logic Flaws of Swarm Algorithms</li></ul>
         <b>Junho Hong</b>, University of Michigan-Dearborn
-        <ul><li>Title: Cybersecurity of critical infrastructure: substations</li></ul>
+        <ul><li>"Cybersecurity of critical infrastructure: substations"</li></ul>
         <b>Hyo-Joo Han</b>, Georgia Gwinnett College
-        <ul><li>Title: Designer's Boundary Spanning Activities Crossing Knowledge Boundaries</li></ul>
+        <ul><li>"Designer's Boundary Spanning Activities Crossing Knowledge Boundaries"</li></ul>
         <b>Ike Choi</b>, University of Georgia
-        <ul><li>Title: Building socially responsible interdisciplinary research programs</li></ul>
+        <ul><li>"Building socially responsible interdisciplinary research programs"</li></ul>
         <b>Seon Ho Kim</b>, University of Southern California
-        <ul><li>Title: Data-driven Traffic Index from Sparse and Incomplete Data</li></ul>
+        <ul><li>"Data-driven Traffic Index from Sparse and Incomplete Data"</li></ul>
     </td>
   </tr>
   <tr>
