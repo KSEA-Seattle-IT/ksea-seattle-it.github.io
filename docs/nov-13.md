@@ -14,7 +14,7 @@ nav_order: 3
     <td colspan="2">
         <b>Registration</b>
         <br>
-        Cascade Foyer North
+        Grand Foyer – 4th Floor
     </td>
   </tr>
   <tr>
@@ -22,7 +22,7 @@ nav_order: 3
     <td colspan="2">
         <b>Keynote Speech 3</b>
         <br>
-        Cascade Ballroom II
+        Grand 2 – 4th Floor
         <br>
         <br>
         <b>Steven Y. Ko</b>, Simon Fraser University
@@ -34,7 +34,7 @@ nav_order: 3
     <td>
         <b>Session 8 - KSEA</b>
         <br>
-        Olympic
+        St. Helens – 2nd Floor
         <br>
         <br>
         <b>Joshua Pak</b>, Professor, Idaho State University, Chemistry
@@ -51,7 +51,7 @@ nav_order: 3
     <td>
         <b>Session 9 - KOCSEA</b>
         <br>
-        St. Helens
+        Cascade 2 – 2nd Floor
         <br>
         <br>
         <b>Yonghwi Kwon</b>, University of Virginia
@@ -71,7 +71,7 @@ nav_order: 3
     <td colspan="2">
         <b>Coffee Break</b>
         <br>
-        Cascade Foyer North
+        Grand Foyer – 4th Floor
     </td>
   </tr>
   <tr>
@@ -79,7 +79,7 @@ nav_order: 3
     <td colspan="2">
         <b>Closing</b>
         <br>
-        Cascade Ballroom II
+        Grand 2 – 4th Floor
     </td>
   </tr>
 </table>
