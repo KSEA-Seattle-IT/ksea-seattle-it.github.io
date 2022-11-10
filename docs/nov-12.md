@@ -15,7 +15,7 @@ nav_order: 2
     <td colspan="3">
         <b>Registration, Arts Display & Coffee</b>
         <br>
-        Cascade Foyer North
+        Grand Foyer – 4th Floor
     </td>
   </tr>
   <tr>
@@ -23,7 +23,7 @@ nav_order: 2
     <td colspan="3">
         <b>Welcome</b>
         <br>
-        Cascade Ballroom II
+        Grand 2 – 4th Floor
     </td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@ nav_order: 2
     <td colspan="3">
         <b>Keynote Speech 1</b>
         <br>
-        Cascade Ballroom II
+        Grand 2 – 4th Floor
         <br>
         <br>
         <b>Alex Choe</b>, President, CMES Robotics Inc.
@@ -43,7 +43,7 @@ nav_order: 2
     <td colspan="3">
         <b>Coffee Break & Arts Display</b>
         <br>
-        Cascade Foyer North
+        Grand Foyer – 4th Floor
     </td>
   </tr>
   <tr>
@@ -51,12 +51,12 @@ nav_order: 2
     <td>
         <b>Session 1 - KSEA YG</b>
         <br>
-        Olympic
+        St. Helens – 2nd Floor
     </td>
     <td>
         <b>Session 2 - KOCSEA</b>
         <br>
-        St. Helens
+        Cascade 2 – 2nd Floor
         <br>
         <br>
         <b>Joohyung Lee</b>, Samsung Research
@@ -73,7 +73,7 @@ nav_order: 2
     <td>
         <b>Session 3 - KSEA</b>
         <br>
-        Cascade Ballroom I-B
+        Cascade 1 – 2nd Floor
         <br>
         <br>
         <b>Donghwan Jeon</b>, CTO, Moloco
@@ -91,7 +91,7 @@ nav_order: 2
     <td colspan="3">
         <b>Lunch</b>
         <br>
-        Puget Sound
+        Grand 1 - 4th Floor
     </td>
   </tr>
   <tr>
@@ -101,14 +101,14 @@ nav_order: 2
         <br>
         KSEA & KOCSEA
         <br>
-        Cascade Ballroom I-A
+        Fifth Avenue – 4th Floor
     </td>
     <td>
         <b>Session 4</b>
         <br>
         KAIST Alumni Networking
         <br>
-        Olympic
+        St. Helens – 2nd Floor
     </td>
   </tr>
   <tr>
@@ -116,7 +116,7 @@ nav_order: 2
     <td colspan="3">
         <b>Keynote Speech 2</b>
         <br>
-        Cascade Ballroom II
+        Grand 2 – 4th Floor
         <br>
         <br>
         <b>Dr. Scott Carnz</b>, Provost, City University of Seattle
@@ -126,9 +126,9 @@ nav_order: 2
   <tr>
     <td>03:00 PM - 03:10 PM</td>
     <td colspan="3">
-        <b>Changbal Introduction</b>
+        <b>Introduction Changbal</b>
         <br>
-        Cascade Ballroom II
+        Grand 2 – 4th Floor
     </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ nav_order: 2
     <td colspan="3">
         <b>Panel Talk, Designer/PM/Developer</b>
         <br>
-        Cascade Ballroom II
+        Grand 2 – 4th Floor
     </td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ nav_order: 2
     <td colspan="3">
         <b>Coffee Break & Arts Display</b>
         <br>
-        Cascade Foyer North
+        Grand Foyer – 4th Floor
     </td>
   </tr>
   <tr>
@@ -152,17 +152,17 @@ nav_order: 2
     <td>
         <b>Session 5 - Changbal Mentoring(Design)</b>
         <br>
-        Cascade Ballroom I-B
+        Cascade 1 – 2nd Floor
     </td>
     <td>
         <b>Session 6 - Changbal Mentoring(PM)</b>
         <br>
-        Olympic
+        St. Helens – 2nd Floor
     </td>
     <td>
         <b>Session 7 - Changbal Mentoring(Developer)</b>
         <br>
-        St. Helens
+        Cascade 2 – 2nd Floor
     </td>
   </tr>
   <tr>
@@ -170,7 +170,7 @@ nav_order: 2
     <td colspan="3">
         <b>Break, Move to Networking Reception</b>
         <br>
-        Cascade Foyer North
+        Grand Foyer – 4th Floor
     </td>
   </tr>
   <tr>
@@ -178,7 +178,7 @@ nav_order: 2
     <td colspan="3">
         <b>Networking & Reception For All</b>
         <br>
-        Puget Sound
+        Grand Foyer – 4th Floor
     </td>
   </tr>
   <tr>
@@ -186,7 +186,7 @@ nav_order: 2
     <td colspan="3">
         <b>Break, Move to Gala</b>
         <br>
-        Cascade Foyer North
+        Grand 2 – 4th Floor
     </td>
   </tr>
   <tr>
@@ -194,7 +194,7 @@ nav_order: 2
     <td colspan="3">
         <b>Gala Dinner</b>
         <br>
-        Cascade Ballroom II
+        Grand 2 – 4th Floor
     </td>
   </tr>
 </table>
