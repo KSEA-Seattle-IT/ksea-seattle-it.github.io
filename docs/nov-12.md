@@ -52,6 +52,14 @@ nav_order: 2
         <b>Session 1 - KSEA YG</b>
         <br>
         St. Helens – 2nd Floor
+        <br>
+        <br>
+        <b>Terry Kim</b>, Raytheon
+        <ul><li>"KSEA Seattle YG - Past Experiences"</li></ul>
+        <b>Steven Seyoung Nam</b>, <b>Sukyong Yun</b>
+        <ul><li>"KSEA Seattle YG - Annual Plan (2022-2023)"</li></ul>
+        <b>Lightning Talks For Poster Presentation</b>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     </td>
     <td>
         <b>Session 2 - KOCSEA</b>
@@ -84,6 +92,7 @@ nav_order: 2
         <ul><li>"The Interstate Drone League to Stimulate STEM Pipelines in KSEA Communities (iDrone KSEA)"</li></ul>
         <b>Taeho Yoh</b>, Professor, Southern Illinois University Carbondale
         <ul><li>"Effects of Physical Activity on Children’s Math and Science Performance: A Meta-Analytic Approach"</li></ul>
+        <br><br><br><br><br><br><br>
     </td>
   </tr>
   <tr>
