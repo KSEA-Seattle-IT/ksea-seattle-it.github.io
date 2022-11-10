@@ -86,7 +86,9 @@ Please select the date to browse the detailed conference schedule.
         <li>KSEA Idao Chapter</li>
         <li>KSEA Utah Chapter</li>
         <li>KSEA Sacramento Chapter</li>
-        <li>Mr. Heonmin Lim, Dr. Sam Chung, Anonymous</li>   
+        <li>Mr. Heonmin Lim</li>
+        <li>Dr. Sam Chung</li>
+        <li>Anonymous</li>   
     </ul>
 </div>
 
