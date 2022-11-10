@@ -64,7 +64,6 @@ nav_order: 3
         <ul><li>"Building socially responsible interdisciplinary research programs"</li></ul>
         <b>Seon Ho Kim</b>, University of Southern California
         <ul><li>"Data-driven Traffic Index from Sparse and Incomplete Data"</li></ul>
-        <br>
     </td>
   </tr>
   <tr>

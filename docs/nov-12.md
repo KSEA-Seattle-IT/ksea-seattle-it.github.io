@@ -59,7 +59,7 @@ nav_order: 2
         <b>Steven Seyoung Nam</b>, <b>Sukyong Yun</b>
         <ul><li>"KSEA Seattle YG - Annual Plan (2022-2023)"</li></ul>
         <b>Lightning Talks For Poster Presentation</b>
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     </td>
     <td>
         <b>Session 2 - KOCSEA</b>
