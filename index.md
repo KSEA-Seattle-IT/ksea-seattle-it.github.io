@@ -76,7 +76,7 @@ Please select the date to browse the detailed conference schedule.
         <img src="https://seattle.ksea.org/nwrc2022/wp-content/uploads/2022/09/ResizedKAIST%EB%A1%9C%EA%B3%A0.jpg" alt="KAIST" style="width:30%;"/>
         <img src="https://seattle.ksea.org/nwrc2022/wp-content/uploads/2022/09/Resizedsponsor27.jpg" alt="Sanglok" style="width:30%;"/>
         <img src="https://seattle.ksea.org/nwrc2022/wp-content/uploads/2022/09/Resizedsponsor6.jpg" alt="Muveen" style="width:30%;"/>
-        <img src="https://seattle.ksea.org/nwrc2022/wp-content/uploads/2022/09/seattlecon.jpg" alt="Consulate" style="width:30%;"/>
+        <img src="https://seattle.ksea.org/nwrc2022/wp-content/uploads/2022/09/seattlecon.jpg" alt="Consulate" style="width:50%;"/>
     </div>
 </div>
 
