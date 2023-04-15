@@ -10,7 +10,7 @@ nav_order: 9
 * [Parking Lot 14](https://goo.gl/maps/G8EKKarvEDF2dnHK8)
 * [Parking Lot 15](https://goo.gl/maps/cNj26gJqRZkWB16t8)
 
-> “A parking ticket will be sent by the organizer via email. Please display a printed copy on the dashboard of your vehicle to avoid penalty.”
+> “A parking ticket has been sent by the organizer via email. Please display a printed copy on the dashboard of your vehicle to avoid penalty. If you need one, please ask a KSEA staff.”
 
 ## Registration (Google Map)
 
