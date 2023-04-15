@@ -2,7 +2,7 @@
 layout: default
 title: KSEA Membership
 description: ""
-nav_order: 7
+nav_order: 8
 ---
 # KSEA Membership
 
@@ -10,7 +10,7 @@ Having a hard time finding educational resources for your child?
 Looking for your child's mentors?
 {: .text-center .fs-6 }
 
-Join KSEA membership!
+[Join KSEA membership!](https://www.ksea.org/signUp)
 {: .text-center .fw-700 .fs-6 .text-green-100}
 
 <br>

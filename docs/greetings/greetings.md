@@ -6,26 +6,6 @@ nav_order: 2
 ---
 
 <style>
-    #platinum{
-        background-color: #e5e4e2;
-        border:2px solid #C6C8CD;
-    }
-    #diamond{
-        background-color: #bcd4e6;
-        border:2px solid #6EA2C9;        
-    }
-    #gold{
-        background-color: #fafad2;
-        border:2px solid #F0F075;              
-    }
-    #silver{
-        background-color: #c0c0c0;
-        border:2px solid #A0ABAC;            
-    }
-    #white{
-        background-color: #f2f3f4;
-        border:2px solid #D0D4D7;            
-    }
     .wrapper{
         text-align: center;
     }
