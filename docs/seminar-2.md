@@ -11,7 +11,9 @@ nav_order: 6
 ### Speakers
 
 * **Soobin Seo**, Professor at WSU ([LinkedIn](https://www.linkedin.com/in/soobin-seo-b71a0b25/))
+    - Topic: "AI and Higher Education"
 * **Dongchan (Don) Kim**, Senior Staff Scientist at Naver US ([LinkedIn](https://www.linkedin.com/in/dongchan/))
+    - Topic: "Live well with AI"
 * **Jinman Ahn**, Principal S/W Engineering manager at Microsoft ([LinkedIn](https://www.linkedin.com/in/jinmanahn/))
     - Topic: "The age of AI has begun"
 
