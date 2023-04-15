@@ -35,7 +35,7 @@ nav_order: 4
       <br>
       11:00-12:00pm
     </td>
-    <td>4-5th: ? <br>6-8th: ? <br>9-11th: ? <br>Seminar: C115</td>
+    <td>4-5th: B104 <br>6-7th: B204 <br> 8th: B102 <br>9-11th: D106 <br>Seminar: C115</td>
   </tr>
   <tr>
     <td>12:00-01:00 pm</td>
@@ -50,7 +50,7 @@ nav_order: 4
     <td>
       <a href="../seminar-2">Seminar II for Parents</a>
     </td>
-    <td>4-5th: ? <br>6-8th: ? <br>9-11th: ? <br>Seminar: C115</td>
+    <td>4-5th: B102 <br>6-8th: B204 <br>9-11th: D106 <br>Seminar: C115</td>
   </tr>
   <tr>
     <td>03:00-03:30 pm</td>
